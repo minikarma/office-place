@@ -8,7 +8,7 @@
 { "type": "Feature", "properties": { "name": "stepan", "lat": 55.648712, "lon": 37.606218 }, "geometry": { "type": "Point", "coordinates": [ 37.606218, 55.648712 ] } },
 { "type": "Feature", "properties": { "name": "kristina", "lat": 55.721838, "lon": 37.387577 }, "geometry": { "type": "Point", "coordinates": [ 37.387577, 55.721838 ] } },
 { "type": "Feature", "properties": { "name": "kolya", "lat": 55.857862, "lon": 37.644899 }, "geometry": { "type": "Point", "coordinates": [ 37.644899, 55.857862 ] } },
-{ "type": "Feature", "properties": { "name": "andrey_tyu", "lat": 55.692653, "lon": 37.72369 }, "geometry": { "type": "Point", "coordinates": [ 37.72369, 55.692653 ] } },
+{ "type": "Feature", "properties": { "name": "andrey_tyu", "lat": 55.691283, "lon": 37.718193 }, "geometry": { "type": "Point", "coordinates": [ 37.72369, 55.692653 ] } },
 { "type": "Feature", "properties": { "name": "andrey_ba", "lat": 55.654518, "lon": 37.398689 }, "geometry": { "type": "Point", "coordinates": [ 37.398689, 55.654518 ] } },
 { "type": "Feature", "properties": { "name": "taya", "lat": 55.724469, "lon": 37.588314 }, "geometry": { "type": "Point", "coordinates": [ 37.588314, 55.724469 ] } },
 { "type": "Feature", "properties": { "name": "anna", "lat": 55.757896, "lon": 37.656119 }, "geometry": { "type": "Point", "coordinates": [ 37.656119, 55.757896 ] } }
