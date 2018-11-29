@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "karma", "lat": 55.67428, "lon": 37.554187 }, "geometry": { "type": "Point", "coordinates": [ 37.554187, 55.67428 ] } },
+{ "type": "Feature", "properties": { "name": "sonya & lena", "lat": 55.768031, "lon": 37.734335 }, "geometry": { "type": "Point", "coordinates": [ 37.734335, 55.768031 ] } },
+{ "type": "Feature", "properties": { "name": "artem", "lat": 55.818478, "lon": 37.714114 }, "geometry": { "type": "Point", "coordinates": [ 37.714114, 55.818478 ] } },
+{ "type": "Feature", "properties": { "name": "stepan", "lat": 55.648712, "lon": 37.606218 }, "geometry": { "type": "Point", "coordinates": [ 37.606218, 55.648712 ] } },
+{ "type": "Feature", "properties": { "name": "kristina", "lat": 55.721838, "lon": 37.387577 }, "geometry": { "type": "Point", "coordinates": [ 37.387577, 55.721838 ] } },
+{ "type": "Feature", "properties": { "name": "kolya", "lat": 55.857862, "lon": 37.644899 }, "geometry": { "type": "Point", "coordinates": [ 37.644899, 55.857862 ] } },
+{ "type": "Feature", "properties": { "name": "andrey_tyu", "lat": 55.692653, "lon": 37.72369 }, "geometry": { "type": "Point", "coordinates": [ 37.72369, 55.692653 ] } },
+{ "type": "Feature", "properties": { "name": "andrey_ba", "lat": 55.654518, "lon": 37.398689 }, "geometry": { "type": "Point", "coordinates": [ 37.398689, 55.654518 ] } },
+{ "type": "Feature", "properties": { "name": "taya", "lat": 55.724469, "lon": 37.588314 }, "geometry": { "type": "Point", "coordinates": [ 37.588314, 55.724469 ] } },
+{ "type": "Feature", "properties": { "name": "anna", "lat": 55.757896, "lon": 37.656119 }, "geometry": { "type": "Point", "coordinates": [ 37.656119, 55.757896 ] } }
+]
+}
