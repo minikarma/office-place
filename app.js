@@ -6,7 +6,7 @@ var map = new mapboxgl.Map({
     zoom: 11.5 // starting zoom
 });
 
-var modes = ["avg","median","karma","sonya","lena","artem","stepan","kristina","andrey_tyu","andrey_ba","taya","anna"],
+var modes = ["avg","median","karma","sonya","lena","artem","stepan","kolya","kristina","andrey_tyu","andrey_ba","taya","anna"],
     currentMode = "median";
 
 currentFillColor = {
